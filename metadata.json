@@ -1,0 +1,6 @@
+{
+  "name": "Cheese-Arbiter",
+  "description": "A social media drama analysis tool (吃瓜仲裁器) acting as an objective internet arbiter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
